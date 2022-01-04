@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	background-color: #424242;
+	color: #ff9028;
 	font-family: 'Varela Round', sans-serif;
 }
 
@@ -10,13 +11,11 @@ a {
 }
 
 .back {
-	position: absolute;
 	background-color: purple;
 }
 
 .title {
 	text-align: center;
-	color: #ff9028;
 }
 
 .swirlysmile {
