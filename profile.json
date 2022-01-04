@@ -1,0 +1,24 @@
+{
+"name": "Punapple",
+"site": "Punapple.tk",
+"image": "http://punapple.tk/images/8D.png",
+"pronouns": "he/him",
+"birthday": "Y2K",
+"people": [
+	"psychpsyo.tk",
+	"rep-tiled.tk"
+],
+"extensions": {
+	"socialMedia": {
+		"twitter": {
+			"name": "Punapple",
+			"link": "https://twitter.com/punappel",
+			"handle": "@Punappel"
+		}
+		"neos": {
+			"name": "Punapple",
+			"userID": "U-Punapple"
+		}
+	}
+}
+}
