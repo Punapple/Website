@@ -1,10 +1,15 @@
-body{
+body {
 	margin: 0;
 	background-color: #424242;
 	font-family: 'Varela Round', sans-serif;
 }
 
-.back{
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.back {
 	position: absolute;
 	background-color: purple;
 }
@@ -18,7 +23,14 @@ body{
 	text-align: center;
 }
 
+.profilelink {
+    color: lightblue;
+    text-decoration: none;
+}
+
 .pills {
+	justify-content: center;
+	font-size: 5vw;
     display: grid;
     height: auto;
     grid-template-columns: auto auto;
@@ -30,18 +42,9 @@ body{
 }
 
 .red {
-	justify-content: center;
-	background-color: red;
+	background-color: #bf0000;
 }
 
 .blue {
-	text-align: center;
-	background-color: blue;
-}
-
-.lol {
-position:absolute;
-bottom:0;
-width: 100%;
-height: 5 em;
+	background-color: #0000bf;
 }
