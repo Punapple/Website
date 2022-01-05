@@ -10,21 +10,23 @@ a {
 	color: inherit;
 }
 
-.back {
-	background-color: purple;
+.filename {
+	color: black;
 }
 
-.title {
+.hyperlink {
+	color: #0060ff;
+}
+
+.center {
+	justify-content: center;
 	text-align: center;
 }
 
-.swirlysmile {
-	text-align: center;
-}
-
-.profilelink {
-    color: lightblue;
-    text-decoration: none;
+.centeritems {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .pills {
@@ -34,10 +36,10 @@ a {
     height: auto;
     grid-template-columns: auto auto;
 }
-.center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
+.back {
+	color: black;
+	background-color: purple;
 }
 
 .red {
