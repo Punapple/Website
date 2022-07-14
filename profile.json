@@ -2,10 +2,11 @@
 	"name": "Punapple",
 	"site": "punapple.tk",
 	"image": "http://punapple.tk/images/8D.png",
-	"birthday": "2000-01-01",
+	"birthday": "2000-00-00",
 	"people": [
-		"psychpsyo.tk",
-		"rep-tiled.tk"
+		"psychpsyo.com",
+		"rep-tiled.tk",
+		"portalsam.net"
 	],
 	"extensions": {
 		"socialMedia": {
